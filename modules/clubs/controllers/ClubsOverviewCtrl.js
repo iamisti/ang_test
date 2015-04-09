@@ -2,7 +2,7 @@
 
   function ClubsOverviewCtrl(){
     /**
-     * Connect to rest service http://url
+     * Connect to rest service https://demo5650681.mockable.io/clubs
      * Show list of the clubs
      */
   }
