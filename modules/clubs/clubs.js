@@ -2,7 +2,6 @@
   function ClubsConfig(){
     $stateProvider
       .state('clubs', {
-        parent:'app',
         url: '/dashboard',
         views:{
           'content' : {
