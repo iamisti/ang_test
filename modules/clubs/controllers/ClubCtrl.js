@@ -14,5 +14,5 @@
   }
 
   angular.module('clubs')
-    .controller('ClubsOverviewCtrl',ClubsOverviewCtrl);
+    .controller('ClubsCtrl',ClubsCtrl);
 })();

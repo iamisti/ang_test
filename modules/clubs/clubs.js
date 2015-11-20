@@ -1,5 +1,6 @@
 (function(){
   function ClubsConfig(){
+    /** This is an example state, this is not correct please make it working **/
     $stateProvider
       .state('clubs', {
         url: '/dashboard',
